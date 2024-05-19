@@ -1,0 +1,14 @@
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\bin\Debug\net6.0\Exam.exe
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\bin\Debug\net6.0\Exam.deps.json
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\bin\Debug\net6.0\Exam.dll
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\bin\Debug\net6.0\Exam.pdb
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.dll
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\refint\Exam.dll
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.pdb
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+F:\Mostafa Reda\Route\Exam\02 C# Exam\Exam Solution\Exam\obj\Debug\net6.0\ref\Exam.dll
