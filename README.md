@@ -1,15 +1,21 @@
-# Exam Management System Documentation
+# Exam Management System Description
 
 This class diagram models an exam system with different types of exams (final and practical) and questions (MCQ and true/false). Each subject has an associated exam, which comprises a list of questions. Questions can have multiple answers, and the system differentiates between multiple-choice and true/false questions. The diagram uses inheritance to abstract common properties and methods, ensuring a scalable and organized structure.
-
-  ##For Final Exam:
-      a. True or False
-      b. MCQ 
-  
-  ##For Practical Exam:
-      a. MCQ
-      
 <br>
+
+#### For Final Exam:
+1- True or False
+<br>
+2- MCQ
+<br>
+#### For Practical Exam:
+
+1- MCQ
+<br>
+
+
+
+
 
 # Class Diagram
 
