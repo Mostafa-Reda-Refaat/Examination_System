@@ -1,5 +1,5 @@
 ## Class Diagram
 
-![Class Diagram drawio](https://github.com/Mostafa-Reda-Refaat/Examination_System/assets/169719632/779dde9a-8c84-419d-8d6b-e48321939445)
+![Class Diagram](https://github.com/Mostafa-Reda-Refaat/Examination_System/assets/169719632/5041e8b1-a84e-4703-ac9e-954726c12029)
 
 <br>
